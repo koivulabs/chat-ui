@@ -1,3 +1,10 @@
+# KoivuLabs: Chat UI
+**Purpose**: Embeddable React widget and UI components.
+**Dependencies**: React, Tailwind CSS, CopilotKit.
+**Integration Points**:
+- **Endpoint**: Connects to the `flowise-core` API via WebSockets/REST.
+  **Theme**: Uses centralized KoivuLabs design tokens.
+  
 <div align=center>
 
 <img width="120" height="120" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" />
